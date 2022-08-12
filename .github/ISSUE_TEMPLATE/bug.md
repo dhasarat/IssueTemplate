@@ -6,4 +6,5 @@ labels: tracking issue, needs triage
 assignees: octocat
 ---
 
-> **_NOTE:_**  The note content.
+> **_NAME:_**  The note content.
+> **_DETAILS:_**  The note content.
