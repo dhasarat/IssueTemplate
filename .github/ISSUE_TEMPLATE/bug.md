@@ -5,6 +5,9 @@ title: "[DATE]: [FEATURE NAME]"
 labels: tracking issue, needs triage
 assignees: octocat
 ---
+---
+**NOTE**
 
-> **_NAME:_**  The note content.
-> **_DETAILS:_**  The note content.
+It works with almost all markdown flavours (the below blank line matters).
+
+---
